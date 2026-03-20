@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS-blue?logo=apple" alt="Platform">
   <img src="https://img.shields.io/badge/Swift-5.9+-orange?logo=swift" alt="Swift">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/license-GPLv3-blue" alt="License">
 </p>
 
 ---
