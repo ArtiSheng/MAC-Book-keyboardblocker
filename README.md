@@ -5,7 +5,7 @@
 <h1 align="center">Mac 禁用自带键盘</h1>
 
 <p align="center">
-  在外接键盘时禁用 MacBook 内置键盘，防止误触
+  锁定Mac的内置键盘，防止外接键盘时的误触
 </p>
 
 <p align="center">
