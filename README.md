@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="禁用自带键盘/键盘.svg" width="128" height="128" alt="App Icon">
+  <img src="图片/AppIcon.png" width="128" height="128" alt="App Icon">
 </p>
 
 <h1 align="center">Mac 禁用自带键盘</h1>
